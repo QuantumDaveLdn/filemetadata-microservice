@@ -20,6 +20,8 @@ The hands-on nature of these projects has solidified my understanding in ways th
 
 Link for the certification: https://www.freecodecamp.org/certification/QuantumDaveLdn/back-end-development-and-apis
 
+---
+
 ## The Path Forward
 
 Completing both the JavaScript Algorithms and Data Structures certification and now the Backend Development certification represents over 600 hours of focused learning. These accomplishments are fueling my confidence as I continue working toward my goal of becoming an AI engineer within the next 8 months.
